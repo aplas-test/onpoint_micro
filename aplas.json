@@ -22,7 +22,47 @@
       "months_to_renew_support": "20",
       "sme_email": "Kelsi.Thompstone@memento.net.au",
       "vendor_phone": "+92 957 301 4793",
-      "investment_number": "163"
+      "investment_number": "163",
+      "integrations": [
+        {
+          "id": "int-453",
+          "name": "INT-453",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Integer ac leo.",
+          "sourceApplicationId": "onpoint_micro",
+          "targetApplicationId": "innovation_4g",
+          "logical_server": "A2A",
+          "status_color": "#00FF00",
+          "pattern": "Scatter Gather",
+          "golive_date": "22/8/04",
+          "sme_name": "Flem Mungan",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "fmungan4@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "10/9/17"
+        },
+        {
+          "id": "int-392",
+          "name": "INT-392",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+          "sourceApplicationId": "onpoint_micro",
+          "targetApplicationId": "innovation_4g",
+          "logical_server": "A2A",
+          "status_color": "#00FF00",
+          "pattern": "Enrichment",
+          "golive_date": "31/1/08",
+          "sme_name": "Matelda Nuss",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "mnussf@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "15/5/17"
+        }
+      ]
     }
   ]
 }
